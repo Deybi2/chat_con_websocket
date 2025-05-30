@@ -1,0 +1,23 @@
+# Node.js/Bun dependencies
+node_modules/
+bun.lockb
+
+# Entornos
+.env
+*.env.local
+
+# Logs y archivos temporales
+*.log
+*.tmp
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Historial y backups
+*.bak
+*.swp
+
+# Editor settings
+.vscode/
+.idea/
