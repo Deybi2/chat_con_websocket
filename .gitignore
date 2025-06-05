@@ -1,6 +1,7 @@
 # Node.js/Bun dependencies
 node_modules/
 bun.lockb
+package-lock.json
 
 # Entornos
 .env

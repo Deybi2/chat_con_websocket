@@ -36,15 +36,27 @@ Un sistema de chat por terminal en tiempo real, construido con **Bun** y **WebSo
    ```bash
    bun install
    ```
+   o
+   ```bash
+   npm install
+   ```
 
 3. Ejecuta el **servidor**:
    ```bash
    bun server.js
    ```
+   o
+   ```bash
+   node server.js
+   ```
 
 4. En otra terminal, ejecuta el **cliente**:
    ```bash
    bun client.js
+   ```
+   o
+   ```bash
+   node client.js
    ```
 
 ---
